@@ -1,6 +1,6 @@
 # My_biografy
 
-### Hi!
+### HI!
 
 I'm a 14-year-old school student from Russia, and I'm learning **cybersecurity**.
 
